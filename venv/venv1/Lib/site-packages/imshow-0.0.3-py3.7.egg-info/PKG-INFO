@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: imshow
+Version: 0.0.3
+Summary: Command line tool to visualize numeric arrays.
+Home-page: https://github.com/terhorst/imshow
+Author: Jonathan Terhorst
+Author-email: terhorst@gmail.com
+License: GPL
+Description: UNKNOWN
+Keywords: imshow matlab visualize plot array
+Platform: UNKNOWN
